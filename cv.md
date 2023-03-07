@@ -35,3 +35,23 @@ to specific situations.
 - Eager to learn
 - Organized
 - Critical thinking skills
+
+---
+
+## Languages
+
+- Ukrainian - Native
+- English - Intermediate
+
+---
+
+## Project Experience
+
+- _ICE CREAM SHOP_ [https://github.com/yulyaolshanska/project_group_10][html, sass, js, parsel]
+  ice Cream company website with responsible layout
+
+- _FILMOTEKA_ [https://github.com/dmytro-chushko/filmoteka][html, sass, js, handlebars, rest api, ajaxs, parsel]
+  Movie search site with the ability to create custom libraries
+
+- _PETLY_ [https://github.com/Annka-Sarviro/PetLi][react, redux, ajaxs, nodejs, express, mongodb]
+  Website where you can post notices for the sale or loss of a pet
