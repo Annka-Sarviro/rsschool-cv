@@ -1,16 +1,16 @@
----
 # Sarviro Hanna
----
+
+-
 
 ## Contacts
 
 - _Location_ Ivano-Frankivsk
-- _e-mail_ ganna.sarviro@gmail.com
-- _GitHub_ [https://github.com/Annka-Sarviro]("Annka-Sarviro")
-- _linkedin_ [https://www.linkedin.com/in/ganna-sarviro/]("Ganna Sarviro")
-- _Codewars_ [https://www.codewars.com/users/Annka-Sarviro]("Annka-Sarviro")
+- **_e-mail_** ganna.sarviro@gmail.com
+- **_GitHub_** ["Annka-Sarviro"](https://github.com/Annka-Sarviro)
+- **_linkedin_** ["Ganna Sarviro"](https://www.linkedin.com/in/ganna-sarviro/)
+- **_Codewars_** ["Annka-Sarviro"](https://www.codewars.com/users/Annka-Sarviro)
 
----
+-
 
 ## Summary
 
@@ -18,7 +18,7 @@ I am a Junior Front-End Developer. Front-end development is an interesting techn
 I am a fast learner, not afraid of difficult tasks and adapt well
 to specific situations.
 
----
+-
 
 ## Tech Skills
 
@@ -28,7 +28,7 @@ to specific situations.
 - REST API
 - Adobe Illustrator/Photoshop/InDesign
 
----
+-
 
 ## Soft Skills
 
@@ -36,22 +36,35 @@ to specific situations.
 - Organized
 - Critical thinking skills
 
----
+-
 
 ## Languages
 
 - Ukrainian - Native
 - English - Intermediate
 
----
+-
 
 ## Project Experience
 
-- _ICE CREAM SHOP_ [https://github.com/yulyaolshanska/project_group_10][html, sass, js, parsel]
+- [**_ICE CREAM SHOP_**](https://github.com/yulyaolshanska/project_group_10) [html, sass, js, parsel]
   ice Cream company website with responsible layout
 
-- _FILMOTEKA_ [https://github.com/dmytro-chushko/filmoteka][html, sass, js, handlebars, rest api, ajaxs, parsel]
+- [**_FILMOTEKA_**](https://github.com/dmytro-chushko/filmoteka) [html, sass, js, handlebars, rest api, ajaxs, parsel]
   Movie search site with the ability to create custom libraries
 
-- _PETLY_ [https://github.com/Annka-Sarviro/PetLi][react, redux, ajaxs, nodejs, express, mongodb]
+- [**_PETLY_**](https://github.com/Annka-Sarviro/PetLi) [react, redux, ajaxs, nodejs, express, mongodb]
   Website where you can post notices for the sale or loss of a pet
+
+-
+
+## Education
+
+- **_Full Stack Developer_**
+  IT-SCHOOL GOIT [KYIV]
+  2021-2022
+
+- **_Engineer-technologist of Materials science_**
+  NATIONAL TECHNICAL UNIVERSITY
+  «KHARKIV POLYTECHNIC INSTITUTE» [KHARKIV]
+  2002-2008
