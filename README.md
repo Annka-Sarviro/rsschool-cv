@@ -1,1 +1,1 @@
-https://annka-sarviro.github.io/rsschool-cv/cv
+https://annka-sarviro.github.io/rsschool-cv
